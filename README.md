@@ -23,6 +23,7 @@ Each guide includes a written tutorial, a video, or both for a complete learning
 - [MySQL](categories/mysql.md)
 - [Security](categories/security.md)
 - [VS Code](categories/vscode.md)
+- [Linux](categories/linux.md)
 - [Windows](categories/windows.md)
 - [XAMPP](categories/xampp.md)
 - [Zed](categories/zed.md)
