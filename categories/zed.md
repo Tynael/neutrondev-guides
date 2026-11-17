@@ -6,3 +6,4 @@
 | Rainbow Brackets | Rainbow Brackets | [Read](https://neutrondev.com/zed-rainbow-brackets/) | [Watch](https://www.youtube.com/watch?v=L4k_6k-sXQ4) |
 | Use Custom Font | How to Use Custom Font | [Read](https://neutrondev.com/zed-how-to-use-custom-font/) | [Watch](https://www.youtube.com/watch?v=1g_Ay5dlrn8) |
 | Disable Preview Tabs | Learn how to open the files in their own regular tab in the Zed editor. | [Read](https://neutrondev.com/zed-disable-preview-tabs/) | [Watch](https://www.youtube.com/watch?v=ak--11LYZTw) |
+| Zed's Multibuffers Explined | Learn about Zed's multibuffers and how you can use them to view and edit parts of multiple files inside a single tab. | [Read](https://neutrondev.com/zeds-multibuffers-explained/) | [Watch](https://www.youtube.com/watch?v=-mNo3YUNySo) |
